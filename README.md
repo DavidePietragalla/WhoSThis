@@ -10,8 +10,9 @@ This project is a lightweight and real-time speaker identification system that i
 - **Flexible architecture** that supports future extensions such as additional models, improved threshold tuning, or multi-user enrollment workflows.
 
 ## 📸 Working
-<img width="1436" alt="First Screenshot" src="assets/home.jpeg" />
-<img width="1436" alt="Screenshot 2025-06-24 at 6 08 38 PM" src="https://github.com/user-attachments/assets/3835bff7-2cc4-44f5-bb3e-0004e899d2dc" />
+<img width="1000" alt="First Screenshot" src="assets/home.jpeg" />
+<img width="1000" alt="Second Screenshot" src="assets/new_profile.jpeg" />
+<img width="1000" alt="Third Screenshot" src="assets/live_listening.jpeg" />
 
 ## 📦 Installation
 To set up the project, follow these steps:
