@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" width="24" height="24">
+  <!-- Left bar -->
+  <rect x="3" y="10" width="4.5" height="10" rx="1.5" fill="#7feacc" />
+  
+  <!-- Center bar -->
+  <rect x="9.75" y="4" width="4.5" height="16" rx="1.5" fill="#7feacc" />
+  
+  <!-- Right bar -->
+  <rect x="16.5" y="7" width="4.5" height="13" rx="1.5" fill="#7feacc" />
+</svg>
