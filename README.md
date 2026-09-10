@@ -26,62 +26,31 @@ To set up the project, follow these steps:
 4. **Install the Frontend Dependencies**: Move to the frontend folder and run `npm install`.
 6. **Start the Application**: You should be able to run both backend and frontend with `npm run dev:all`
 
-## 💻 Usage
-1. **Start the Backend**: Run `node server.js` to start the Express server.
-2. **Start the Frontend**: Run `npm run dev` to start the Next.js development server.
-3. **Interact with the Application**: Open your web browser and navigate to `http://localhost:3000` to use the application.
-4. Testing sync
-
 ## 📂 Project Structure
 ```markdown
-project/
+WhoSThis/
 ├── frontend/
-│   ├── app/
-│   │   ├── layout.tsx
-│   │   ├── page.tsx
-│   │   └── ...
-│   ├── lib/
-│   │   ├── config.ts
-│   │   ├── utils.ts
-│   │   └── ...
-│   ├── next.config.ts
-│   ├── package.json
-│   └── ...
-├── backend/
+│   ├── public/
+│   │   ├── favicon.svg
+│   │   └── icons.svg
 │   ├── src/
-│   │   ├── server.ts
-│   │   ├── routes/
-│   │   │   ├── readme.ts
-│   │   │   └── ...
-│   │   ├── utils/
-│   │   │   ├── make-dir.ts
-│   │   │   ├── clone-repo.ts
-│   │   │   └── ...
-│   │   ├── python/
-│   │   │   ├── agents.py
-│   │   │   ├── llm_fallback.py
-│   │   │   ├── prompts.py
-│   │   │   └── ...
-│   │   └── ...
+│   │   ├── assets/
+│   │   │   ├── hero.png
+│   │   │   ├── react.svg
+│   │   │   └── vite.svg
+│   │   ├── App.css
+│   │   ├── App.jsx
+│   │   ├── index.css
+│   │   └── main.jsx
+│   ├── .gitignore
+│   ├── eslint.config.js
+│   ├── index.html
 │   ├── package.json
-│   └── ...
-├── .env
+│   ├── package-lock.json
+│   └── vite.config.js
+├── main.py
+├── student_model.py
+├── notebook.ipynb
 ├── README.md
-└── ...
+└── voice_profiles.json
 ```
-## 🤝 Contributing
-Contributions are what make the open-source community such an amazing place to learn and create. Any contributions you make are **greatly appreciated**.
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-
-## 📬 Contact
-[@LakshitAgarwal](https://x.com/lakshitagarwal7?s=21) - [lakshit7811@gmail.com](mailto:lakshit7811@gmail.com)
-
-## Thanks
-This project was made possible thanks to the contributions of many individuals and the support of our community. 
-This is written by [readme.ai](https://readme-generator-phi.vercel.app/) for better documentation.
-
